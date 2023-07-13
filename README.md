@@ -1,6 +1,5 @@
 # how-to-create-ibmid
-IBMid､IBM Cloudアカウントの作成方法を説明します
-https://github.com/IBMDeveloperTokyo/how-to-create-ibmid.githttps://github.com/IBMDeveloperTokyo/how-to-create-ibmid.git
+IBMidとIBM Cloudアカウントの作成方法をご説明します
 
 ## 注意事項
 * 無料のLiteプランのみを利用する場合でも､クレジットカード情報の登録が必要です｡
